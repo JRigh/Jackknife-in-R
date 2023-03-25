@@ -1,6 +1,6 @@
-#--------------
-# Jackknif in R
-#--------------
+#---------------
+# Jackknife in R
+#---------------
 
 library(tidyverse)
 library(xtable)
