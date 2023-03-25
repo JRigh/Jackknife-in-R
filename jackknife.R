@@ -12,7 +12,7 @@ setwd("C:/Users/julia/OneDrive/Desktop/github/19. Jackknife")
 #----------------------------------------------------
 
 # 1.1 create data
-n <- 200
+n <- 20
 lambda <- 3
 set.seed(2023)
 sample1 <- data.frame('x' = rexp(n = n, rate = lambda))
